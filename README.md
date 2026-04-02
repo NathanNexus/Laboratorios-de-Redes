@@ -10,7 +10,7 @@ Laboratórios com configuração, troubleshooting e documentação de ambientes 
 
 ## 🗂️ Projetos
 
-### 🔹 [Projeto 1 — Arquitetura de Redes](./ArquiteturadeRede/projeto1/)
-> Descrição curta do que foi feito, tecnologias usadas (ex: OSPF, VLANs, DHCP)
+### 🔹 [Projeto 1 — Arquitetura de Redes](./Arquitetura%20de%20Rede/)
+> Rede hierárquica no Cisco Packet Tracer — VLANs,Trunk e Routing; STP e EtherChannel LACP; NAT e Conceitos de HSRP, DHCP, DNS e HTTP.
 
 ---
